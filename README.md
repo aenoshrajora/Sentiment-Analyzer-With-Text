@@ -12,7 +12,8 @@
  4. Numpy
  5. Matplotlib
  
- ```pip install scikit-learn streamlit numpy matplotlib
+ ```
+ pip install scikit-learn streamlit numpy matplotlib
  ``` 
 Just Download the repository, install the necessary libraries and then run
  ```python
