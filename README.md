@@ -3,7 +3,8 @@
  
  It uses [streamlit](https://streamlit.io) library for creating this sentiment analyzer tool on a platform like web.
  
- <img src="https://github.com/patidarparas13/Sentiment-Analyzer-Tool/blob/master/image.png">
+ <img src="![image](https://user-images.githubusercontent.com/73543504/205436999-edb88216-3bd0-4251-9b74-bf0f71f4adb1.png)
+">
  
  ## Requirement
  1. Scikit-Learn
